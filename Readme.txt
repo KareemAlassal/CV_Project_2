@@ -1,3 +1,4 @@
+put file Exercise_videos in file ai coach app after extract
 1- use vs code to run project
 
 2- install Requirements
