@@ -1,0 +1,6 @@
+1- in vs code terminal run commands:
+
+	1-pip install numpy --user
+	2-pip install opencv-python --user
+	3-pip install mediapipe --user
+	4-pip install pandas --user
